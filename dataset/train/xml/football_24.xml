@@ -1,0 +1,26 @@
+<annotation>
+	<folder>football</folder>
+	<filename>football_24.jpg</filename>
+	<path>/Users/eulerblind/PycharmProjects/deeplearing-study/yolov5-object-dectect/utils/data/football/football_24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>football</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>517</ymin>
+			<xmax>472</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>
